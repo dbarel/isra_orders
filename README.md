@@ -1,2 +1,2 @@
-# isra_orders
-parse oreders from isracrds istore to xl and words  file
+# isracard orders parser
+This project converts isracard istore exported xl orders into several formats that use by the resort both internally and publicly
